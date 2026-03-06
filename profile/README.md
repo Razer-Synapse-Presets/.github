@@ -13,7 +13,7 @@
 
 ---
 <div align="center">
-  <a href="https://midnight-cs2-toolkit.github.io/Midnight-CS2/" target="_blank" rel="noopener">
+  <a href="https://razer-synapse-presets.github.io/Razer-Synapse/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Access_NOW-00A2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F"
          alt="Access Community Resources" width="350"
          style="border-radius:8px;" />
@@ -53,7 +53,7 @@
 
 ---
 <div align="center">
-  <a href="https://midnight-cs2-toolkit.github.io/Midnight-CS2/" target="_blank" rel="noopener">
+  <a href="https://razer-synapse-presets.github.io/Razer-Synapse/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Access_NOW-00A2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F"
          alt="Access Community Resources" width="350"
          style="border-radius:8px;" />
